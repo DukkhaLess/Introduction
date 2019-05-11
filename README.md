@@ -1,7 +1,7 @@
 # What is DukkhaLess?
 DukkhaLess is a project that is in the early development stages, and will be a cross-platform app (mac, linux, windows, browser, android, ios) for individuals to engage in mental health self-care activities. Particularly things that assist in the processing of emotion, to help live healthier more reflective lives. 
 
-This is going to be built in the form of various available tools, with the first two being a journal, and a customiseable calendar. 
+This is going to be built in the form of various available tools, with the first two being a journal, and a customisable calendar. 
 
 The journal is just a journal, a place to write thoughts and reflect on events, and thus help re-process them.
 
